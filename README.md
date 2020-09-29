@@ -4,7 +4,7 @@
 
 [![unluckynike's github stats](https://github-readme-stats.vercel.app/api?username=unluckynike&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=009999)](https://github.com/unluckynike)
 
-![name](https://img.shields.io/badge/name-wulizeng-orange) ![address](https://img.shields.io/badge/address-DaLian-yellowgreen) ![age](https://img.shields.io/badge/age-21-blue)
+![Name](https://img.shields.io/badge/Name-WuLiZeng-orange) ![Address](https://img.shields.io/badge/Address-DaLian-yellowgreen) ![Age](https://img.shields.io/badge/Age-21-blue)  ![Occupation](https://img.shields.io/badge/Occupation-Student-lightgrey)
 
 
 
