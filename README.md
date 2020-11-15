@@ -12,7 +12,6 @@
 ![Name](https://img.shields.io/badge/Name-WuLiZeng-orange) ![Address](https://img.shields.io/badge/Address-DaLian-yellowgreen) ![Age](https://img.shields.io/badge/Age-21-blue)  ![Occupation](https://img.shields.io/badge/Occupation-Student-lightgrey)  ![Blog](https://img.shields.io/badge/Blog-Hexo-green) ![](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)  ![]( https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![]( https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)
 
 <!--
-**unluckynike/unluckynike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about where ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: ...->
 
