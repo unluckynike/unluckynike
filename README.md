@@ -34,12 +34,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="./profile-summary-cards/2077/stats.svg" alt="GitHub Stats"/></td>
-      <td><img src="./profile-summary-cards/2077/languages.svg" alt="Top Languages"/></td>
+      <td><img src="./profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats"/></td>
+      <td><img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages"/></td>
     </tr>
     <tr>
-      <td><img src="./profile-summary-cards/2077/repos-per-language.svg" alt="Repos per Language"/></td>
-      <td><img src="./profile-summary-cards/2077/productive-time.svg" alt="Productive Time"/></td>
+      <td><img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language"/></td>
+      <td><img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time"/></td>
     </tr>
   </table>
 </div>
