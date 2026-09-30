@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" width="100%" alt="WuLiZeng"/>
   <p>
     <a href="https://unluckynike.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=440&lines=Java+Backend+Developer;Python+%2F+Machine+Learning+Learner;SpringBoot+%C2%B7+Vue+%C2%B7+PyTorch;Coding+in+Dalian%2C+China" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=440&lines=Java+Backend+Developer;Python+%2F+Machine+Learning+Learner;SpringBoot+%C2%B7+Vue+%C2%B7+PyTorch;Coding+in+Chengdu%2C+China" alt="Typing SVG"/>
     </a>
   </p>
   <p>

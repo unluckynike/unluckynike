@@ -44,7 +44,7 @@
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="70" y="194" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" fill="#8b949e">// <tspan fill="#7df9ff">Java Backend</tspan> · <tspan fill="#b388ff">Python / ML</tspan> · <tspan fill="#ff8ac2">Dalian, China</tspan></text>
+  <text x="70" y="194" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" fill="#8b949e">// <tspan fill="#7df9ff">Java Backend</tspan> · <tspan fill="#b388ff">Python / ML</tspan> · <tspan fill="#ff8ac2">Chengdu, China</tspan></text>
 
   <rect x="24" y="238" width="952" height="3" fill="url(#accent)"/>
 </svg>
