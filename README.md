@@ -1,4 +1,4 @@
-## 你好 👋 我是 **halen**
+## 你好 👋 我是 **Halensea**
 
 - 🔭 Java 后端开发，常用 Spring Boot，也写 Vue
 - 🌱 正在学习 Go 与机器学习（PyTorch）
